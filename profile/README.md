@@ -1,3 +1,3 @@
 ## Restro HQ
 
-An all-in-one SaaS solution for restaurants including POS, menu management, order management, reservations, customer management, and reviews.
+The ultimate all-in-one SaaS solution for restaurants. Manage POS, orders, reservations, menus, customer data, and analytics with ease.
